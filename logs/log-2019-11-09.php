@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-11-09 20:09:13 --> 404 Page Not Found: Templates/img
+ERROR - 2019-11-09 20:09:32 --> 404 Page Not Found: Templates/img
+ERROR - 2019-11-09 20:22:41 --> 404 Page Not Found: Templates/img
+ERROR - 2019-11-09 20:22:41 --> 404 Page Not Found: Assets/app
+ERROR - 2019-11-09 20:22:43 --> 404 Page Not Found: Templates/img
+ERROR - 2019-11-09 20:22:49 --> 404 Page Not Found: Assets/app
+ERROR - 2019-11-09 20:22:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:22:51 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:22:54 --> 404 Page Not Found: Assets/app
+ERROR - 2019-11-09 20:22:54 --> 404 Page Not Found: Templates/img
+ERROR - 2019-11-09 20:22:54 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:22:54 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:24:28 --> 404 Page Not Found: Images/filetypes
+ERROR - 2019-11-09 20:24:28 --> 404 Page Not Found: Assets/app
+ERROR - 2019-11-09 20:24:28 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:24:28 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:25:23 --> 404 Page Not Found: Images/filetypes
+ERROR - 2019-11-09 20:25:23 --> 404 Page Not Found: Assets/app
+ERROR - 2019-11-09 20:25:23 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:25:23 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:26:02 --> 404 Page Not Found: Images/filetypes
+ERROR - 2019-11-09 20:26:02 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:26:02 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:26:57 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:26:57 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:27:16 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:27:16 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:27:24 --> 404 Page Not Found: Assets/vendor
+ERROR - 2019-11-09 20:27:24 --> 404 Page Not Found: Assets/vendor
