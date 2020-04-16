@@ -28,8 +28,8 @@ $config['base_url'] = 'http://localhost/devs/ci_bt_checkbox_table/';
 $config['site_key'] 	= 'ashkdjhajkdh-ajsdkjahsjdkhkjahssdasdasd';
 $config['secret_key'] 	= 'jsahjdkahdjkahdajkshdjkahsdjkasdasdasds';
 
-$config['site_key_v3'] 	= '6LeuiekUAAAAAKp1RkhWaUnRrUoFekKuAdh6IU0N';
-$config['secret_key_v3'] 	= '6LeuiekUAAAAADgHB_QO6eU8rk4jK8V8BUQiOojh';
+$config['site_key_v3'] 	= 'sddsfsfsfsdfsfjhjsdlfjsldfjlkfjlsdjfldf';
+$config['secret_key_v3'] 	= 'kjsdfhjdksfhjksdhfjksdhfjdshfjsdhfjhdfjhs';
 
 /*
 |--------------------------------------------------------------------------
